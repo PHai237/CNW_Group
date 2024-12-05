@@ -1,7 +1,6 @@
 <?php
 
 class User {
-    //Các thuộc tính (thành phần) của user
     private $username;
     private $password;
     private $role;
